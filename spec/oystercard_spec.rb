@@ -3,10 +3,6 @@ require 'oystercard'
 describe Oystercard do
 
   subject(:oystercard) {Oystercard.new}
-  let(:max_balance) {Oystercard::DEFAULT_LIMIT}
-  let(:max_balance_error) {Oystercard::MAX_BALANCE_ERROR}
-  let(:min_balance_error) {Oystercard::MIN_BALANCE_ERROR}
-  let(:fare) {Oystercard::FARE}
   let(:rand_num) {rand(1..40)}
   let(:entry_station) {double :station}
   let(:exit_station) {double :station}
@@ -26,8 +22,8 @@ describe Oystercard do
     end
 
     it 'raises an error when balance exceeds £90' do
-      oystercard.top_up(max_balance)
-      expect{ oystercard.top_up(rand_num) }.to raise_error max_balance_error
+      oystercard.top_up(Oystercard::DEFAULT_LIMIT)
+      expect{ oystercard.top_up(rand_num) }.to raise_error Oystercard::MAX_BALANCE_ERROR
     end
 
   end
@@ -35,7 +31,7 @@ describe Oystercard do
   describe '#touch_in' do
 
     it'raises an error if balance is 0' do
-      expect {oystercard.touch_in(entry_station)}.to raise_error min_balance_error
+      expect {oystercard.touch_in(entry_station)}.to raise_error Oystercard::MIN_BALANCE_ERROR
     end
 
   end
@@ -44,7 +40,7 @@ describe Oystercard do
 
     it 'deducts fare from card' do
       oystercard.top_up(rand_num)
-      expect {oystercard.touch_out(double)}.to change{oystercard.balance}.by (-fare)
+      expect {oystercard.touch_out(double)}.to change{oystercard.balance}.by (-Oystercard::FARE)
     end
   end
 

@@ -8,6 +8,7 @@ describe Oystercard do
   let(:min_balance_error) {Oystercard::MIN_BALANCE_ERROR}
   let(:fare) {Oystercard::FARE}
   let(:rand_num) {rand(1..40)}
+  let(:station) {double :station}
 
 
   describe '#initialize' do
@@ -30,13 +31,6 @@ describe Oystercard do
 
   end
 
-  describe '#deduct' do
-    it 'allows to deduct a fare from card' do
-      oystercard.top_up(40)
-      expect(oystercard.deduct(15)).to eq (25)
-    end
-  end
-
   describe '#touch_in' do
     it 'allows to start journey' do
       oystercard.top_up(rand_num)
@@ -44,7 +38,17 @@ describe Oystercard do
     end
 
     it'raises an error if balance is 0' do
-      expect {oystercard.touch_in}.to raise_error min_balance_error
+      expect {oystercard.touch_in(station)}.to raise_error min_balance_error
+    end
+
+    it 'allows to record start of journey station' do
+      expect(oystercard).to respond_to(:touch_in).with(1).argument
+    end
+
+    it 'stores the entry station' do
+      oystercard.top_up(rand_num)
+      oystercard.touch_in(station)
+      expect(oystercard.entry_station).to eq station
     end
   end
 
@@ -63,15 +67,15 @@ describe Oystercard do
   context '#in_journey' do
     it 'returns status for touch in' do
       oystercard.top_up(rand_num)
-      oystercard.touch_in
-      expect(oystercard.in_journey?).to eq true
+      oystercard.touch_in(station)
+      expect(oystercard.in_journey?).to eq station
     end
 
     it 'retuns status for touch_out' do
       oystercard.top_up(rand_num)
-      oystercard.touch_in
+      oystercard.touch_in(station)
       oystercard.touch_out
-      expect(oystercard.in_journey?).to eq false
+      expect(oystercard.in_journey?).to eq nil
     end
   end
 

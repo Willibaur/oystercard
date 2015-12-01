@@ -17,17 +17,13 @@ class Oystercard
     @balance += amount
   end
 
-  def deduct(amount)
-    @balance -= amount
-  end
-
   def touch_in
     fail MIN_BALANCE_ERROR if @balance < MIN_BALANCE
     @status = true
   end
 
   def touch_out
-    @balance -= FARE
+    deduct(FARE)
     @status = false
   end
 
@@ -36,6 +32,10 @@ class Oystercard
   end
 
   private
+
+  def deduct(amount)
+    @balance -= amount
+  end
 
   def check_limit?(amount)
     amount > (DEFAULT_LIMIT - @balance)

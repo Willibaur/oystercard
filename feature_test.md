@@ -29,3 +29,13 @@ oystercard.top_up(35)
 oystercard.touch_in
 oystercard.touch_out
 oystercard
+
+
+```
+In order to pay for my journey
+As a customer
+I need to have the minimum amount (£1) for a single journey.
+```
+require './lib/oystercard.rb'
+oystercard = Oystercard.new
+oystercard.touch_in

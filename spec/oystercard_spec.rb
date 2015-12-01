@@ -5,6 +5,7 @@ describe Oystercard do
   subject(:oystercard) {Oystercard.new}
   let(:max_balance) {Oystercard::DEFAULT_LIMIT}
   let(:max_balance_error) {Oystercard::MAX_BALANCE_ERROR}
+  let(:min_balance_error) {Oystercard::MIN_BALANCE_ERROR}
   let(:rand_num) {rand(1..40)}
 
 
@@ -40,6 +41,10 @@ describe Oystercard do
       oystercard.top_up(rand_num)
       expect(oystercard).to respond_to(:touch_in)
     end
+
+    it'raises an error if balance is 0' do
+      expect {oystercard.touch_in}.to raise_error min_balance_error
+    end
   end
 
   describe '#touch_out' do
@@ -51,14 +56,16 @@ describe Oystercard do
 
   context '#in_journey' do
     it 'returns status for touch in' do
+      oystercard.top_up(rand_num)
       oystercard.touch_in
       expect(oystercard.in_journey?).to eq true
     end
 
     it 'retuns status for touch_out' do
+      oystercard.top_up(rand_num)
       oystercard.touch_in
       oystercard.touch_out
-      expect(oystercard.in_journey?).to eq false 
+      expect(oystercard.in_journey?).to eq false
     end
   end
 

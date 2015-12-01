@@ -5,6 +5,7 @@ class Oystercard
   MAX_BALANCE_ERROR = "Maximum balance £#{DEFAULT_LIMIT} exceeded."
   MIN_BALANCE_ERROR = "Not enough balance please top up!"
   MIN_BALANCE = 1
+  FARE = 1
 
   def initialize
     @balance = 0
@@ -26,6 +27,7 @@ class Oystercard
   end
 
   def touch_out
+    @balance -= FARE
     @status = false
   end
 

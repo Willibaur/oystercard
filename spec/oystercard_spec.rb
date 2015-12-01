@@ -6,6 +6,7 @@ describe Oystercard do
   let(:max_balance) {Oystercard::DEFAULT_LIMIT}
   let(:max_balance_error) {Oystercard::MAX_BALANCE_ERROR}
   let(:min_balance_error) {Oystercard::MIN_BALANCE_ERROR}
+  let(:fare) {Oystercard::FARE}
   let(:rand_num) {rand(1..40)}
 
 
@@ -51,6 +52,11 @@ describe Oystercard do
     it 'allows to end journey' do
       oystercard.top_up(rand_num)
       expect(oystercard).to respond_to(:touch_out)
+    end
+
+    it 'deducts fare from card' do
+      oystercard.top_up(rand_num)
+      expect {oystercard.touch_out}.to change{oystercard.balance}.by (-fare)
     end
   end
 

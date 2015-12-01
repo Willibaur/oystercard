@@ -1,6 +1,6 @@
 class Oystercard
 
-  attr_reader :balance, :amount, :entry_station, :exit_station, :journey
+  attr_reader :balance, :amount, :journey
   DEFAULT_LIMIT = 90
   MAX_BALANCE_ERROR = "Maximum balance £#{DEFAULT_LIMIT} exceeded."
   MIN_BALANCE_ERROR = "Not enough balance please top up!"

@@ -38,26 +38,9 @@ describe Oystercard do
       expect {oystercard.touch_in(entry_station)}.to raise_error min_balance_error
     end
 
-    it 'stores the entry station' do
-      oystercard.top_up(rand_num)
-      oystercard.touch_in(entry_station)
-      expect(oystercard.entry_station).to eq entry_station
-    end
-
   end
 
   describe '#touch_out' do
-
-    # it 'allows to record end of journey station' do
-    #   expect(oystercard).to respond_to(:touch_out).with(1).argument
-    # end
-
-    it 'stores the exit station' do
-      oystercard.top_up(rand_num)
-      oystercard.touch_in(entry_station)
-      oystercard.touch_out(exit_station)
-      expect(oystercard.exit_station).to eq exit_station
-    end
 
     it 'deducts fare from card' do
       oystercard.top_up(rand_num)

@@ -1,4 +1,5 @@
 require 'oystercard'
+require 'journey'
 
 describe Oystercard do
 
@@ -42,36 +43,21 @@ describe Oystercard do
 
     it 'deducts fare from card' do
       oystercard.top_up(rand_num)
-      expect {oystercard.touch_out(double)}.to change{oystercard.balance}.by (-Oystercard::FARE)
+      oystercard.touch_in(entry_station)
+      expect {oystercard.touch_out(exit_station)}.to change{oystercard.balance}.by (-Oystercard::FARE)
     end
   end
 
   describe '#in_journey' do
 
     it 'returns status for touch in' do
+      # let(:touch_in) {double :start}
       oystercard.top_up(rand_num)
       oystercard.touch_in(entry_station)
       expect(oystercard.in_journey?).to eq entry_station
     end
 
   end
-
-  describe '#journey_log' do
-
-    it 'stores entry station into hash map journey' do
-      oystercard.top_up(rand_num)
-      oystercard.touch_in(entry_station)
-      oystercard.touch_out(exit_station)
-      oystercard.touch_in(entry_station2)
-      oystercard.touch_out(exit_station2)
-      expect(oystercard.journeys[2]).to eq [entry_station2, exit_station2]
-    end
-
-
-  end
-
-
-
 
 
 end

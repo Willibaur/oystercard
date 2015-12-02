@@ -1,0 +1,1432 @@
+Aldgate
+1
+
+Aldgate East
+1
+
+Angel	Northern	Islington
+1
+
+Baker Street
+1
+
+Bank
+1
+
+Barbican
+1
+
+
+Bayswater
+1
+
+Blackfriars
+1
+
+Bond Street
+1
+
+Borough
+1
+
+Cannon Street
+1
+
+Chancery Lane
+1
+
+Charing Cross
+1
+
+Covent Garden
+1
+Earl's Court
+1 & 2
+
+Edgware Road
+1
+
+Elephant & Castle
+1 & 2
+
+Embankment
+1
+
+Euston
+1
+
+Euston Square
+1
+
+Farringdon	Metropolitan[b]
+Circle
+Hammersmith & City	Islington
+1
+January 10 1863
+resited 23 December 1865
+Farringdon Street: 1863–1922
+Farringdon & High Holborn: 1922–36
+18.84
+Gloucester Road	District[c]
+Piccadilly
+Circle	Kensington and Chelsea
+1
+October 1 1868
+Brompton (Gloucester Road): 1868–1907
+13.734
+Goodge Street	Northern	Camden
+1
+June 22 1907
+Tottenham Court Road: 1907–08
+8.699
+Great Portland Street	Metropolitan[b]
+Circle
+Hammersmith & City	City of Westminster
+1
+January 10 1863
+Portland Road: 1863–1917
+Great Portland Street: 1917–23
+Great Portland Street & Regent's Park: 1923–33
+6.884
+Green Park	Piccadilly
+Victoria
+Jubilee	City of Westminster
+1
+December 15 1906
+Dover Street: 1906–33
+28.259
+High Street Kensington	District[c]
+Circle	Kensington and Chelsea
+1
+October 1 1868
+Kensington: Proposed before opening
+12.522
+Holborn	Central
+Piccadilly	Camden
+1
+December 15 1906
+Holborn: 1906–1933
+Holborn (Kingsway): 1933– suffix gradually dropped
+30.098
+Hyde Park Corner	Piccadilly	City of Westminster
+1
+December 15 1906
+6.189
+King's Cross St. Pancras	Metropolitan[b]
+Northern
+Piccadilly
+Circle
+Victoria
+Hammersmith & City	Camden
+1
+January 10 1863
+Metropolitan line
+resited 9 March 1941
+King's Cross (Metropolitan line): 1863–1925
+King's Cross & St. Pancras (Metropolitan line): 1925–33
+King's Cross (Piccadilly line): 1906–27
+King's Cross for St. Pancras (Piccadilly line): 1927–33
+King's Cross for St. Pancras {Northern line}: 1907–33
+66.153
+Knightsbridge	Piccadilly	Kensington and Chelsea
+1
+December 15 1906
+Sloane Street: Proposed before opening
+20.162
+Lambeth North	Bakerloo	Lambeth
+1
+March 10 1906
+Kennington Road: 1906
+Westminster Bridge Road: 1906–17
+3.31
+Lancaster Gate	Central	City of Westminster	1
+July 30 1900
+Westbourne: Proposed before opening
+6.482
+Leicester Square	Piccadilly
+Northern	City of Westminster	1
+December 15 1906
+Cranbourn Street: Proposed before opening
+35.556
+Liverpool Street	Metropolitan[b]
+Central
+Circle
+Hammersmith & City	City of London	1
+February 1 1875
+resited 12 July 1875
+Bishopsgate: 1875–1909
+60.908
+London Bridge	Northern
+Jubilee	Southwark
+1
+February 25 1900
+61.495
+Mansion House	District[i]
+Circle	City of London
+1
+July 3 1871
+7.034
+Marble Arch	Central	City of Westminster
+1
+July 30 1900
+16.619
+Marylebone	Bakerloo	City of Westminster
+1
+March 27 1907
+Lisson Grove/Marylebone: Proposed before opening
+Great Central: 1907–17
+11.73
+Monument	District[i]
+Circle	City of London
+1
+October 6 1884
+King William Street: Proposed before opening
+East Cheap: 1884
+40.655[6]
+Moorgate	Metropolitan[b]
+Northern
+Circle
+Hammersmith & City	City of London	1
+December 23 1865
+Moorgate Street {Metropolitan line): 1865–1924
+21.182
+Notting Hill Gate	District[c]
+Central
+Circle	Kensington and Chelsea
+1 & 2
+October 1 1868
+17.365
+Old Street	Northern	Islington
+Hackney
+1
+November 17 1901
+19.608
+Oxford Circus	Central
+Bakerloo
+Victoria	City of Westminster
+1
+July 30 1900
+73.971
+Paddington	Hammersmith & City[d]
+District
+Circle
+Bakerloo	City of Westminster
+1
+January 10 1863
+Paddington (Bishop's Road) (Hammersmith & City line): 1863–1933
+Paddington (Praed Street) (Circle line): 1868–1948
+42.025
+Piccadilly Circus	Bakerloo
+Piccadilly	City of Westminster	1
+March 10 1906
+38.567
+Pimlico	Victoria	City of Westminster	1
+September 14 1972
+8.392
+Queensway	Central	City of Westminster	1
+July 30 1900
+Queen's Road: 1900–46
+8.479
+Regent's Park	Bakerloo	City of Westminster	1
+March 10 1906
+3.272
+Russell Square	Piccadilly	Camden
+1
+December 15 1906
+14.045
+St. James's Park	District[i]
+Circle	City of Westminster	1
+December 24 1868
+13.425
+St. Paul's	Central	City of London
+1
+July 30 1900
+Newgate Street: Proposed before opening
+Post Office: 1900–37
+14.155
+Sloane Square	District[i]
+Circle	Kensington and Chelsea
+1
+December 24 1868
+14.417
+South Kensington	District[i]
+Piccadilly
+Circle	Kensington and Chelsea
+1
+December 24 1868
+28.243
+Southwark	Jubilee	Southwark
+1
+September 24 1999
+10.033
+Temple	District[i]
+Circle	City of Westminster
+1
+May 30 1870
+9.642
+Tottenham Court Road	Central
+Northern	City of Westminster	1
+July 30 1900
+Oxford Street (Northern line): 1907–08
+34.869
+Tower Gateway	DLR (Tower Gateway Branch)	City of London	1
+August 31 1987
+No Data
+Tower Hill	District[i]
+Circle	Tower Hamlets
+1
+September 25 1882
+resited 12 October 1884
+resited 5 February 1967
+Tower of London: 1882–84
+Mark Lane: 1884–1946
+21.613
+Vauxhall	Victoria	Lambeth
+1 & 2
+July 23 1971
+18.302
+Victoria	District[i]
+Circle
+Victoria	City of Westminster
+1
+December 24 1868
+77.444
+Warren Street	Northern
+Victoria	Camden
+1
+June 22 1907
+Euston Road: 1907–08
+14.042
+Waterloo	Waterloo & City
+Bakerloo
+Northern
+Jubilee	Lambeth
+1
+March 10 1906
+75.957
+Westminster	District[i]
+Circle
+Jubilee	City of Westminster
+1
+December 24 1868
+Westminster Bridge: 1868–1907
+19.08
+All Saints	DLR (Stratford Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+Archway	Northern	Islington
+2 & 3
+June 22 1907
+Archway Tavern: Proposed before opening
+Highgate: 1907–39
+Archway (Highgate): 1939–41
+Highgate (Archway): 1941–47
+8.048
+Arsenal	Piccadilly	Islington
+2
+December 15 1906
+Gillespie Road: 1906–32
+Arsenal (Highbury Hill): 1932– suffix gradually dropped
+3.052
+Barons Court	District
+Piccadilly	Hammersmith and Fulham
+2
+October 9 1905
+6.349
+Belsize Park	Northern	Camden
+2
+June 22 1907
+Belsize: Proposed before opening
+6.081
+Bermondsey	Jubilee	Southwark
+2
+September 17 1999
+6.378
+Bethnal Green	Central	Tower Hamlets
+2
+December 4 1946
+Bethnal: Proposed before opening
+15.11
+Blackwall	DLR (Beckton Branch)	Tower Hamlets
+2
+March 28 1994
+No Data
+Bow Church	DLR (Stratford Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+Bow Road	District[j]
+Hammersmith & City	Tower Hamlets
+2
+June 11 1902
+5.084
+Brixton	Victoria	Lambeth
+2
+July 23 1971
+20.88
+Bromley-by-Bow	District[j]
+Hammersmith & City	Tower Hamlets
+2 & 3
+June 2 1902
+March 31 1858
+Bromley: 1858–1968
+2.406
+Caledonian Road	Piccadilly	Islington
+2
+December 15 1906
+Barnsbury: Proposed before opening
+4.93
+Camden Town	Northern	Camden
+2
+June 22 1907
+Camden Road: Proposed before opening
+19.674
+Canada Water	Jubilee	Southwark
+2
+September 17 1999
+10.611
+Canary Wharf	Jubilee	Tower Hamlets
+2
+September 17 1999
+39.616
+Canary Wharf	DLR (Lewisham Branch)	Tower Hamlets
+2
+1991
+No Data
+Chalk Farm	Northern	Camden
+2
+June 22 1907
+Adelaide Road: Proposed before opening
+5.393
+Clapham Common	Northern	Lambeth
+2
+June 3 1900
+8.974
+Clapham North	Northern	Lambeth
+2
+June 3 1900
+Clapham Road: 1900–26
+5.571
+Clapham South	Northern	Wandsworth
+2 & 3
+September 13 1926
+Nightingale Lane: Proposed before opening
+7.534
+Crossharbour	DLR (Lewisham Branch)	Tower Hamlets
+2
+August 31 1987
+Crossharbour: 1987–94
+Crossharbour & London Arena: 1994–2007
+No Data
+Cutty Sark
+for Maritime Greenwich	DLR (Lewisham Branch)	Greenwich	2 & 3
+December 3 1999
+No Data
+Deptford Bridge	DLR (Lewisham Branch)	Lewisham
+2 & 3
+November 20 1999
+No Data
+Devons Road	DLR (Stratford Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+East Acton	Central	Hammersmith and Fulham
+2
+August 3 1920
+3.9
+East India	DLR (Beckton Branch)	Tower Hamlets
+2 & 3
+March 28 1994
+No Data
+East Putney	District	Wandsworth
+2 & 3
+June 3 1889
+5.81
+Elverson Road	DLR (Lewisham Branch)	Greenwich
+2 & 3
+November 11 1999
+No Data
+Finchley Road	Metropolitan
+Jubilee[f]	Camden
+2
+June 30 1879
+10.18
+Finsbury Park	Piccadilly
+Victoria	Islington
+2
+December 15 1906
+26.3
+Fulham Broadway	District	Hammersmith and Fulham
+2
+March 1 1880
+Walham Green: 1880–1952
+9.63
+Goldhawk Road	Hammersmith & City[m]
+Circle	Hammersmith and Fulham
+2
+April 1 1914
+1.578
+Greenwich	DLR (Lewisham Branch)	Greenwich
+2 & 3
+November 11 1999
+No Data
+Hammersmith	District
+Piccadilly	Hammersmith and Fulham
+2
+September 9 1874
+27.435
+Hammersmith	Hammersmith & City[m]
+Circle	Hammersmith and Fulham
+2
+June 13 1864
+resited 1 December 1868
+8.6
+Hampstead	Northern	Camden
+2 & 3
+June 22 1907
+Heath Street: Proposed before opening
+4.732
+Heron Quays	DLR (Lewisham Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+Highbury & Islington	Victoria	Islington
+2
+September 1 1968
+June 28 1904
+Highbury: 1867–1922
+14.327
+Holland Park	Central	Kensington and Chelsea
+2
+July 30 1900
+Lansdown Road: Proposed before opening
+3.505
+Holloway Road	Piccadilly	Islington
+2
+December 15 1906
+Holloway: Proposed before opening
+7.672
+Island Gardens	DLR (Lewisham Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+Kennington	Northern	Lambeth
+2
+December 18 1890
+New Street: Proposed before opening
+4.125
+Kensal Green	Bakerloo	Brent
+2
+October 1 1916
+2.185
+Kensington (Olympia)	District	Kensington and Chelsea
+2
+July 1 1864
+May 27 1844
+Kensington: 1844–68
+Kensington (Addison Road): 1868–1946
+1.275
+Kentish Town	Northern	Camden
+2
+June 22 1907
+7.279
+Kilburn	Jubilee[e]	Brent
+2
+November 24 1879
+Kilburn and Brondesbury: 1879–1950
+7.852
+Kilburn Park	Bakerloo	Brent
+2
+January 31 1915
+4.068
+Ladbroke Grove	Hammersmith & City[m]
+Circle	Kensington and Chelsea
+2
+June 13 1864
+Notting Hill: 1864–80
+Notting Hill & Ladbroke Grove: 1880–1919
+Ladbroke Grove (North Kensington): 1919–38
+5.121
+Langdon Park	DLR (Stratford Branch)	Tower Hamlets
+2
+December 9 2007
+No Data
+Latimer Road	Hammersmith & City[m]
+Circle	Kensington and Chelsea
+2
+December 16 1868
+1.978
+Lewisham	DLR (Lewisham Branch)	Lewisham
+2 & 3
+November 11 1999
+No Data
+Limehouse	DLR (Bank Branch)	Tower Hamlets
+2
+August 31 1987
+1841
+Stepney Junction, Stepney East (adjacent mainline station)
+No Data
+Maida Vale	Bakerloo	City of Westminster
+2
+June 6 1915
+Elgin Avenue: Proposed before opening
+3.161
+Manor House	Piccadilly	Hackney
+Haringey
+2 & 3
+September 19 1932
+8.83
+Mile End	District[j]
+Hammersmith & City
+Central	Tower Hamlets
+2
+June 2 1902
+13.522
+Mornington Crescent	Northern	Camden
+2
+June 22 1907
+Seymour Street: Proposed before opening
+4.479
+Mudchute	DLR (Lewisham Branch)	Tower Hamlets
+2
+August 31 1987
+resited 20 November 1999
+No Data
+North Acton	Central	Ealing
+2 & 3
+November 5 1923
+4.716
+North Greenwich	Jubilee	Greenwich
+2 & 3
+May 14 1999
+18.103
+Oval	Northern	Lambeth
+2
+December 18 1890
+Kennington Oval: Proposed before opening
+The Oval: 1890–94
+5.792
+Parsons Green	District	Hammersmith and Fulham
+2
+March 1 1880
+5.45
+Poplar	DLR	Tower Hamlets
+2
+August 31 1987
+No Data
+Pudding Mill Lane	DLR (Stratford Branch)	Newham
+2 & 3
+January 15 1996
+No Data
+Putney Bridge	District	Hammersmith and Fulham
+2
+March 1 1880
+Putney Bridge & Fulham: 1880–1902
+Putney Bridge & Hurlingham: 1902–32
+5.648
+Queen's Park	Bakerloo	Brent
+2
+February 11 1915
+June 2 1879
+Queen's Park (West Kilburn): 1879–1915
+5.286
+Ravenscourt Park	District	Hammersmith and Fulham
+2
+June 1 1877
+January 1 1873
+Shaftesbury Road: 1877–88
+2.503
+Royal Oak	Hammersmith & City[m]
+Circle	City of Westminster	2
+October 30 1871
+June 4 1838
+1.765
+St. John's Wood	Jubilee[g]	City of Westminster	2
+November 20 1939
+Acacia Road: Proposed before opening
+6.523
+Shadwell	DLR (Bank Branch)	Tower Hamlets
+2
+August 31 1987
+April 10 1876
+Shadwell: 1884–1900
+Shadwell & St George's-in-the-East 1900–18
+No Data
+Shepherd's Bush	Central	Hammersmith and Fulham
+2
+July 30 1900
+18.962
+Shepherd's Bush Market	Hammersmith & City[m]
+Circle	Hammersmith and Fulham
+2
+June 13 1864
+resited 1 April 1914
+Shepherd's Bush: 1864–2008
+2.96
+South Quay	DLR (Lewisham Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+Stamford Brook	District	Hammersmith and Fulham
+2
+February 1 1912
+2.433
+Stepney Green	District[j]
+Hammersmith & City	Tower Hamlets
+2
+June 23 1902
+4.138
+Stockwell	Northern
+Victoria	Lambeth
+2
+December 18 1890
+7.867
+Swiss Cottage	Jubilee[g]	Camden
+2
+November 20 1939
+6.649
+Tufnell Park	Northern	Islington
+2
+June 22 1907
+3.696
+Turnham Green	District
+Piccadilly	Hounslow	2 & 3
+June 1 1877
+January 1 1869
+5.854
+Warwick Avenue	Bakerloo	City of Westminster	2
+January 31 1915
+Warrington Crescent: Proposed before opening
+4.231
+West Brompton	District	Kensington and Chelsea
+2
+April 12 1869
+Richmond Road: Proposed before opening
+3.715
+West Hampstead	Jubilee[e]	Camden
+2
+June 30 1879
+7.449
+West India Quay	DLR (Lewisham Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+West Kensington	District	Hammersmith and Fulham
+2
+September 9 1874
+North End (Fulham): 1874–77
+4.551
+Westbourne Park	Hammersmith & City[m]
+Circle	City of Westminster
+2
+February 1 1866
+resited 1 November 1871
+2.899
+Westferry	DLR (Bank Branch)	Tower Hamlets
+2
+August 31 1987
+No Data
+White City	Central	Hammersmith and Fulham
+2
+November 23 1947
+7.852
+Whitechapel	District[j]
+Hammersmith & City	Tower Hamlets
+2
+October 1 1884
+April 10 1876
+Whitechapel (Mile End): 1884–1901
+12.145
+Willesden Green	Jubilee[e]	Brent
+2 & 3
+November 24 1879
+7.336
+Wood Lane	Hammersmith and City
+Circle	Hammersmith and Fulham
+2
+October 12 2008
+3.1
+Acton Town	District
+Piccadilly	Ealing
+3
+July 1 1879
+Mill Hill Park: 1879–1910
+5.46
+Balham	Northern	Wandsworth
+3
+December 6 1926
+11.55
+Beckton	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Beckton Park	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Blackhorse Road	Victoria	Waltham Forest
+3
+September 1 1968
+5.679
+Bounds Green	Piccadilly	Haringey
+3 & 4
+September 19 1932
+Brownlow Road: Proposed before opening
+5.554
+Brent Cross	Northern	Barnet
+3
+November 19 1923
+Woodstock: Proposed before opening
+Brent: 1923–76
+2.142
+Canning Town	DLR (Beckton & Woolwich Arsenal Branches)
+Jubilee	Newham
+3
+March 28 1994
+June 14 1847
+7.835
+Chiswick Park	District	Ealing
+3
+July 1 1879
+Acton Green: 1879–87
+Chiswick Park & Acton Green: 1887–1910
+1.946
+Colliers Wood	Northern	Merton
+3
+September 13 1926
+5.295
+Custom House	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+November 11 1855
+Victoria Dock
+No Data
+Cyprus	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Dollis Hill	Jubilee[e]	Brent
+3
+October 1 1909
+3.293
+Ealing Broadway	District
+Central	Ealing
+3
+July 1 1879
+17.86
+Ealing Common	District
+Piccadilly	Ealing
+3
+July 1 1879
+Ealing Common: 1879–86
+Ealing Common and West Acton 1886–1910
+3.4
+East Finchley	Northern	Barnet
+3
+July 3 1939
+August 22 1867
+5.95
+East Ham	District[j]
+Hammersmith & City	Newham
+3 & 4
+June 2 1902
+1858
+12.67
+Gallions Reach	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Golders Green	Northern	Barnet
+3
+June 22 1907
+7.898
+Gunnersbury	District	Hounslow
+3
+June 1 1877
+January 1 1869
+Brentford Road: 1869–71
+3.824
+Hanger Lane	Central	Ealing
+3
+June 30 1947
+3.151
+Harlesden	Bakerloo	Brent
+3
+April 16 1917
+June 15 1912
+2.23
+Hendon Central	Northern	Barnet
+3 & 4
+November 19 1923
+6.076
+Highgate	Northern	Haringey
+3
+January 19 1941
+August 22 1867
+4.968
+Kew Gardens	District	Richmond
+3 & 4
+June 1 1877
+July 1 1869
+3.224
+King George V	DLR (Woolwich Arsenal Branch)	Newham
+3
+December 2 2005
+No Data
+Leyton	Central	Waltham Forest
+3
+May 5 1947
+August 22 1856
+Low Leyton: 1856–68
+12.345
+Leytonstone	Central	Waltham Forest
+3 & 4
+May 5 1947
+August 22 1856
+9.7
+London City Airport	DLR (Woolwich Arsenal Branch)	Newham
+3
+December 2 2005
+No Data
+Neasden	Jubilee[e]	Brent
+3
+August 2 1880
+Kingsbury & Neasden: 1880–1910
+Neasden & Kingsbury: 1910–32
+2.854
+North Ealing	Piccadilly[h]	Ealing
+3
+June 23 1903
+0.936
+Northfields	Piccadilly[l]	Ealing
+3
+April 16 1908
+resited 19 May 1932
+Northfield Halt: 1908–11
+Northfields & Little Ealing: 1911–32
+3.924
+Park Royal	Piccadilly	Ealing
+3
+June 23 1903
+resited 6 July 1931
+Park Royal & Tywford Abbey: 1903–31
+Park Royal: 1931–36
+Park Royal (Hanger Hill): 1936–47
+1.626
+Plaistow	District[j]
+Hammersmith & City	Newham
+3
+June 2 1902
+March 31 1858
+6.164
+Pontoon Dock	DLR (Woolwich Arsenal Branch)	Newham
+3
+December 2 2005
+No Data
+Prince Regent	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Royal Albert	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Royal Victoria	DLR (Beckton Branch)	Newham
+3
+March 28 1994
+No Data
+Seven Sisters	Victoria	Haringey
+3
+September 1 1968
+12.385
+South Ealing	Piccadilly[l]	Ealing
+3
+May 1 1883
+3.342
+South Wimbledon	Northern	Merton
+3 & 4
+September 13 1926
+Merton Grove: Proposed before opening
+South Wimbledon: 1926–28
+South Wimbledon (Merton): 1928– suffix gradually dropped
+3.8
+Southfields	District	Wandsworth
+3
+June 3 1889
+5.511
+Stonebridge Park	Bakerloo	Brent
+3
+April 16 1917
+June 15 1912
+2.396
+Stratford	Central
+DLR (Stratford Branch)
+Jubilee	Newham
+3
+December 4 1946
+1839
+26.99
+Tooting Bec	Northern	Wandsworth
+3
+September 13 1926
+Trinity Road (Tooting Bec): 1926–50
+6.428
+Tooting Broadway	Northern	Wandsworth
+3
+September 13 1926
+12.975
+Tottenham Hale	Victoria	Haringey
+3
+September 1 1968
+7.753
+Turnpike Lane	Piccadilly	Haringey
+3
+September 19 1932
+Ducketts Green/Harringay: Proposed before opening
+9.619
+Upton Park	District[j]
+Hammersmith & City	Newham
+3
+June 2 1902
+1877
+10.359
+Walthamstow Central	Victoria	Waltham Forest
+3
+September 1 1968
+13.437
+West Acton	Central	Ealing
+3
+November 5 1923
+1.586
+West Ham	District[j]
+Hammersmith & City
+Jubilee	Newham
+3
+June 2 1902
+1901
+West Ham: 1901–1924
+West Ham (Manor Road): 1924–69
+3.123
+West Silvertown	DLR (Woolwich Arsenal Branch)	Newham
+3
+December 2 2005
+No Data
+Willesden Junction	Bakerloo	Brent
+3
+May 10 1915
+3.832
+Wimbledon	District	Merton
+3
+June 3 1889
+11.469
+Wimbledon Park	District	Merton
+3
+June 3 1889
+2.126
+Wood Green	Piccadilly	Haringey
+3
+September 19 1932
+Lordship Lane: Proposed before opening
+10.84
+Alperton	Piccadilly[h]	Brent
+4
+June 28 1903
+Perivale-Alperton: 1903–10
+3.044
+Arnos Grove	Piccadilly	Enfield
+4
+September 19 1932
+Bowes Road: Proposed before opening
+4.312
+Barking	District[j]
+Hammersmith & City	Barking and Dagenham
+4
+June 2 1902
+June 13 1854
+13.046
+Barkingside	Central	Redbridge
+4
+May 31 1948
+May 1 1903
+0.975
+Boston Manor	Piccadilly[l]	Ealing
+Hounslow	4
+May 1 1883
+Boston Road: 1883–1911
+1.935
+Burnt Oak	Northern	Barnet
+4
+October 27 1924
+Sheaves Hill/Orange Hill/Deansbrook: Proposed before opening
+Burnt Oak: 1924–28
+Burnt Oak (Watling): 1928– suffix gradually dropped
+3.644
+Chigwell	Central	Epping Forest
+4
+November 21 1948
+May 1 1903
+0.397
+Colindale	Northern	Barnet
+4
+August 18 1924
+4.092
+Fairlop	Central	Redbridge
+4
+May 31 1948
+May 1 1903
+0.8
+Finchley Central	Northern	Barnet
+4
+April 14 1940
+August 22 1867
+Finchley & Hendon: 1867–72
+Finchley: 1872–96
+Finchley (Church End): 1896–1940
+5.05
+Gants Hill	Central	Redbridge
+4
+December 14 1947
+Ilford North/Cranbrook: Proposed before opening
+5.258
+Grange Hill	Central	Redbridge
+4
+November 21 1948
+May 1 1903
+0.441
+Greenford	Central	Ealing
+4
+June 30 1947
+October 1 1904
+3.495
+Hainault	Central	Redbridge
+4
+May 31 1948
+May 1 1903
+2.525
+Hounslow Central	Piccadilly[l]	Hounslow	4
+April 1 1886
+Heston Hounslow: 1886–1925
+3.799
+Hounslow East	Piccadilly[l]	Hounslow	4
+May 2 1909
+Hounslow Town: 1909–25
+4.022
+Kenton	Bakerloo	Brent
+Harrow
+4
+April 16 1917
+June 15 1912
+1.677
+Kingsbury	Jubilee[e]	Brent
+4
+December 10 1932
+3.333
+Mill Hill East	Northern	Barnet
+4
+May 18 1941
+August 22 1867
+Mill Hill: 1867–1928
+Bittacy Hill: Proposed 1940
+1.043
+Morden	Northern	Merton
+4
+September 13 1926
+North Morden: Proposed before opening
+6.982
+Newbury Park	Central	Redbridge
+4
+December 14 1947
+May 1 1903
+3.93
+North Wembley	Bakerloo	Brent
+4
+April 16 1917
+June 15 1912
+1.467
+Northwick Park	Metropolitan	Brent
+4
+June 28 1923
+Northwick Park & Kenton: 1923–33
+3.617
+Osterley	Piccadilly[l]	Hounslow	4
+May 1 1883
+resited 25 March 1934
+Osterley & Spring Grove: 1883–1934
+2.064
+Perivale	Central	Ealing
+4
+June 30 1947
+May 2 1904
+Perivale Halt: 1904–1947
+2.031
+Preston Road	Metropolitan	Brent
+4
+May 21 1908
+resited 3 January 1932
+2.949
+Queensbury	Jubilee[e]	Brent
+4
+December 16 1934
+3.193
+Redbridge	Central	Redbridge
+4
+December 14 1947
+Ilford West/Red House: Proposed before opening
+2.555
+Richmond	District	Richmond
+4
+June 1 1877
+January 1 1869
+7.601
+Roding Valley	Central	Redbridge
+4
+November 21 1948
+February 3 1936
+0.209
+Snaresbrook	Central	Redbridge
+4
+December 14 1947
+August 22 1856
+Snaresbrook & Wanstead: 1856–1947
+2.433
+South Kenton	Bakerloo	Brent
+4
+July 3 1933
+0.853
+South Woodford	Central	Redbridge
+4
+December 14 1947
+August 22 1856
+George Lane: 1856–1937
+South Woodford (George Lane): 1937–50
+4.093
+Southgate	Piccadilly	Enfield
+4
+March 13 1933
+Chase Side: Proposed before opening
+4.96
+Sudbury Hill	Piccadilly[h]	Ealing
+Harrow
+4
+June 28 1903
+2.008
+Sudbury Town	Piccadilly[h]	Brent
+Ealing
+4
+June 28 1903
+2.161
+Totteridge & Whetstone	Northern	Barnet
+4
+April 14 1940
+April 1 1872
+Totteridge: 1872–74
+1.777
+Upney	District	Barking and Dagenham
+4
+September 12 1932
+1.874
+Wanstead	Central	Redbridge
+4
+December 14 1947
+2.2
+Wembley Central	Bakerloo	Brent
+4
+April 16 1917
+1842
+Sudbury: 1842–82
+Sudbury & Wembley: 1882–1910
+Wembley for Sudbury: 1910–48
+4.228
+Wembley Park	Metropolitan
+Jubilee[f]	Brent
+4
+May 12 1894
+9.318
+West Finchley	Northern	Barnet
+4
+April 14 1940
+March 1 1933
+1.185
+Woodford	Central	Redbridge
+4
+December 14 1947
+August 22 1856
+4.477
+Woodside Park	Northern	Barnet
+4
+April 12 1940
+April 1 1872
+Torrington Park, Woodside: 1872–82
+Woodside Park for North Finchley: 1882–1931
+Woodside Park and North Finchley for Woodside Garden Suburb: 1931–40
+2.31
+Woolwich Arsenal	DLR (Woolwich Arsenal Branch)	Greenwich
+4
+January 10 2009
+November 1 1849
+No Data
+Becontree	District	Barking and Dagenham
+5
+July 18 1932
+June 28 1926
+Gale Street: 1926–32
+2.421
+Buckhurst Hill	Central	Epping Forest
+5
+November 21 1948
+August 22 1856
+1.722
+Canons Park	Jubilee[e]	Harrow
+5
+December 10 1932
+Canons Park (Edgware): 1932–33
+1.646
+Cockfosters	Piccadilly	Enfield
+5
+July 31 1933
+Trent Park: Proposed before opening
+1.675
+Dagenham East	District	Barking and Dagenham
+5
+June 2 1902
+1885
+Dagenham: 1888–1949
+2.162
+Dagenham Heathway	District	Barking and Dagenham
+5
+September 12 1932
+Heathway: 1932–1949
+4.239
+Eastcote	Metropolitan
+Piccadilly[k]	Hillingdon
+5
+May 26 1906
+2.46
+Edgware	Northern	Barnet
+5
+August 18 1924
+3.72
+Harrow & Wealdstone	Bakerloo	Harrow
+5
+April 16 1917
+July 20 1837
+Harrow: 1837–97
+3.893
+Harrow-on-the-Hill	Metropolitan	Harrow
+5
+August 2 1880
+March 15 1899
+Harrow: 1880–94
+8.591
+Hatton Cross	Piccadilly	Hillingdon
+5 & 6
+July 19 1975
+2.715
+High Barnet	Northern	Barnet
+5
+April 14 1940
+April 1 1872
+2.731
+Hounslow West	Piccadilly[l]	Hounslow	5
+July 21 1884
+Hounslow Barracks: 1884–1925
+3.101
+North Harrow	Metropolitan	Harrow
+5
+March 22 1915
+1.449
+# Northolt	Central	Ealing
+5
+November 21 1948
+3.737
+Oakwood
+5
+
+Pinner
+5
+
+Rayners Lane
+5
+
+Ruislip Gardens
+5
+
+South Harrow
+5
+
+South Ruislip
+5
+
+Stanmore
+5
+
+West Harrow
+5
+
+Debden
+6
+
+Epping
+6
+
+Heathrow Terminals 1, 2, 3
+6
+
+Heathrow Terminal 4
+6
+
+Heathrow Terminal 5
+6
+
+Hillingdon
+6
+
+Hornchurch
+6
+
+Loughton
+6
+
+Moor Park
+6 & 7
+
+Northwood
+6
+
+Northwood Hills
+6
+
+Theydon Bois
+6
+
+Upminster
+6
+
+Upminster Bridge
+6
+
+Uxbridge
+6
+
+West Ruislip
+6
+
+Chorleywood
+7
+
+Croxley
+7
+
+Rickmansworth
+7
+
+Watford
+7
+
+Chalfont & Latimer	8
+
+Amersham
+9
+
+Chesham		9

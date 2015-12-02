@@ -2,10 +2,12 @@ require 'oystercard'
 
 describe Oystercard do
 
-  subject(:oystercard) {Oystercard.new}
+  subject(:oystercard) {described_class.new}
   let(:rand_num) {rand(1..40)}
   let(:entry_station) {double :station}
   let(:exit_station) {double :station}
+  let(:entry_station2) {double :station}
+  let(:exit_station2) {double :station}
 
 
   describe '#initialize' do
@@ -55,18 +57,16 @@ describe Oystercard do
   end
 
   describe '#journey_log' do
+
     it 'stores entry station into hash map journey' do
       oystercard.top_up(rand_num)
       oystercard.touch_in(entry_station)
-      expect(oystercard.journey["entry"]).to eq entry_station
+      oystercard.touch_out(exit_station)
+      oystercard.touch_in(entry_station2)
+      oystercard.touch_out(exit_station2)
+      expect(oystercard.journeys[2]).to eq [entry_station2, exit_station2]
     end
 
-    it 'stores exit station into hash map journey' do
-      oystercard.top_up(rand_num)
-      oystercard.touch_in(entry_station)
-      oystercard.touch_out(exit_station)
-      expect(oystercard.journey["exit"]).to eq exit_station
-    end
 
   end
 

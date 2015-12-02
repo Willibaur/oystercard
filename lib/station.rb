@@ -1,9 +1,14 @@
 class Station
 
+  def zone(station)
+    station_list(station)
+  end
 
-  private
-  
-  zone = {
+
+private
+
+def station_list(key)
+  station_zones = {
               "Acton Town" => 3,
               "Aldgate" => 1,
               "Aldgate East" => 1,
@@ -32,5 +37,12 @@ class Station
               "Blackhorse Road" => 3,
               "Blackwall"	=> 2,
             }
+
+  station_zones[key]
+end
+
+
+
+
 
 end

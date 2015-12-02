@@ -26,10 +26,10 @@ describe 'User Stories'  do
 # # As a customer
 # # I want to know what zone a station is in
 #
-#     it 'returns' do
-#       station = Station.new("Balham")
-#       expect(station.zone).to eq 3
-#     end
+    it 'returns a zone number when a station is given' do
+      station = Station.new
+      expect(station.zone("Balham")).to eq 3
+    end
 
 
 end

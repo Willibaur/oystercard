@@ -1,34 +1,46 @@
+require_relative 'journeyLog'
+
 class Journey
 
-  attr_reader :journey_log
+  attr_reader :single_journey, :in_use
 
   def initialize
-    @journey_log = {}
     @single_journey = []
-    @counter = 0
+    @journeyLog = JourneyLog.new
+    @in_use = false
   end
 
   def start(entry_station)
-    tracking
-    @single_journey << entry_station
+    if in_journey?
+      current_journey(nil)
+      @journeyLog.journey_history(@single_journey)
+      @single_journey = []
+    end
+      @single_journey = []
+
+    @in_use = true
+    current_journey(entry_station)
   end
 
+
   def end(exit_station)
-    @single_journey << exit_station
-    journey_history
+    current_journey(nil) if !in_journey?
+    @in_use = false
+    current_journey(exit_station)
+    @journeyLog.journey_history(@single_journey)
+
   end
 
 
 
   private
 
-  def journey_history
-    @journey_log[@counter] = @single_journey
-    @single_journey = []
+  def in_journey?
+    @in_use
   end
 
-  def tracking
-    @counter += 1
+  def current_journey(station)
+    @single_journey << station
   end
 
 end

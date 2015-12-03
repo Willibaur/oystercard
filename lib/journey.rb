@@ -14,9 +14,8 @@ class Journey
     if in_journey?
       current_journey(nil)
       @journeyLog.journey_history(@single_journey)
-      @single_journey = []
+      wipe_journey
     end
-      @single_journey = []
 
     @in_use = true
     current_journey(entry_station)
@@ -28,12 +27,16 @@ class Journey
     @in_use = false
     current_journey(exit_station)
     @journeyLog.journey_history(@single_journey)
-
+    wipe_journey
   end
 
 
 
   private
+
+  def wipe_journey
+    @single_journey = []
+  end
 
   def in_journey?
     @in_use

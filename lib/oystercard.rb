@@ -22,8 +22,7 @@ class Oystercard
   end
 
   def touch_in(entry_station)
-    @in_use if deduct(FINE)
-    @in_use = false
+    deduct(FINE) if in_journey?
     fail MIN_BALANCE_ERROR if @balance < MIN_BALANCE
     @in_use = true
     @journey.start(entry_station)

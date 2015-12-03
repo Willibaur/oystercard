@@ -29,10 +29,6 @@ describe Oystercard do
       expect {oystercard.touch_in(entry_station)}.to raise_error Oystercard::MIN_BALANCE_ERROR
     end
 
-    it 'charges a fine when user does not touch in' do
-      oystercard.top_up(Oystercard::DEFAULT_LIMIT)
-      expect{oystercard.touch_out("exit_station")}.to change{oystercard.balance}.by (-Oystercard::FINE)
-    end
   end
 
   describe '#touch_out' do
@@ -44,18 +40,16 @@ describe Oystercard do
     end
   end
 
-  describe '#in_journey' do
+  describe '#fare' do
+    it 'charges a penalty when fail to touch in' do
+      oystercard.top_up(rand_num)
+      expect{oystercard.touch_out(exit_station)}.to change{oystercard.balance}.by (-Oystercard::FINE)
+    end
 
-    it 'returns status for touch in' do
+    it 'charge a penalty when fail to touch out' do
       oystercard.top_up(rand_num)
       oystercard.touch_in(entry_station)
-      expect(oystercard.in_journey?).to eq entry_station
-    end
-  end
-
-  describe '#fare' do
-    it 'returns minimum fare or penalty fare' do
-      expect(oystercard.fare).to eq Oystercard::FARE
+      expect{oystercard.touch_in(entry_station2)}.to change{oystercard.balance}.by (-Oystercard::FINE)
     end
   end
 end

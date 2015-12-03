@@ -2,7 +2,7 @@ require_relative 'journey'
 
 class Oystercard
 
-  attr_reader :balance, :amount, :journey
+  attr_reader :balance, :journey
   DEFAULT_LIMIT = 90
   MAX_BALANCE_ERROR = "Maximum balance £#{DEFAULT_LIMIT} exceeded."
   MIN_BALANCE_ERROR = "Not enough balance please top up!"
@@ -13,6 +13,7 @@ class Oystercard
   def initialize
     @balance = 0
     @journey = Journey.new
+    @in_use = false
   end
 
   def top_up(amount)
@@ -21,30 +22,33 @@ class Oystercard
   end
 
   def touch_in(entry_station)
+    @in_use if deduct(FINE)
+    @in_use = false
     fail MIN_BALANCE_ERROR if @balance < MIN_BALANCE
-    @entry_station = entry_station
-    in_journey?(:in)
+    @in_use = true
     @journey.start(entry_station)
   end
 
   def touch_out(exit_station)
-    # deduct(fare(false)) if !in_journey?
-    deduct(fare(:fare)) if !in_journey?
-    @exit_station = exit_station
-    @journey.end(@exit_station)
+    @journey.end(exit_station)
+    deduct(fare)
+    @in_use = false
   end
 
-  def in_journey?(status = nil)
-    true if status == :in
-  end
 
-  def fare(condition)
-    return FARE if condition == :fare
-    return FINE if condition == :fine
-  end
+
+
 
   private
 
+
+  def fare
+    @in_use ? FARE : FINE
+  end
+
+  def in_journey?
+    @in_use
+  end
 
   def deduct(amount)
     @balance -= amount

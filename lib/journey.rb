@@ -9,14 +9,12 @@ class Journey
   end
 
   def start(entry_station)
-    @entry_station = entry_station
     tracking
-    @single_journey << @entry_station
+    @single_journey << entry_station
   end
 
   def end(exit_station)
-    @exit_station = exit_station
-    @single_journey << @exit_station
+    @single_journey << exit_station
     journey_history
   end
 

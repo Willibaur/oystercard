@@ -2,7 +2,7 @@ require_relative 'journeyLog'
 
 class Journey
 
-  attr_reader :single_journey, :in_use
+  attr_reader :single_journey, :in_use, :journeyLog
 
   def initialize
     @single_journey = []
@@ -13,10 +13,8 @@ class Journey
   def start(entry_station)
     if in_journey?
       current_journey(nil)
-      @journeyLog.journey_history(@single_journey)
-      wipe_journey
+      store_and_wipe_journey
     end
-
     @in_use = true
     current_journey(entry_station)
   end
@@ -26,15 +24,15 @@ class Journey
     current_journey(nil) if !in_journey?
     @in_use = false
     current_journey(exit_station)
-    @journeyLog.journey_history(@single_journey)
-    wipe_journey
+    store_and_wipe_journey
   end
 
 
 
   private
 
-  def wipe_journey
+  def store_and_wipe_journey
+    @journeyLog.journey_history(@single_journey)
     @single_journey = []
   end
 

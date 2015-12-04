@@ -19,7 +19,7 @@
     card.touch_out(:Camden)
     card.touch_in(:Oxford_Street)
     card.touch_out(:Bond_Street)
-    expect(journey_log).to eq(1=>[:Victoria, :Camden], 2=>[:Oxford_Street, :Bond_Street])
+    expect(card.journey.journeyLog.journey_log).to eq(1=>[:Victoria, :Camden], 2=>[:Oxford_Street, :Bond_Street])
   end
 
   # Step 13

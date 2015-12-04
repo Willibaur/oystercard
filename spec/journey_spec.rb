@@ -14,12 +14,11 @@ describe Journey do
 
       it 'stores single journeys' do
         journey.start(entry_station1)
-        journey.end(exit_station1)
-        expect(journey.single_journey).to eq [entry_station1, exit_station1]
+        expect(journey.single_journey).to eq [entry_station1]
       end
 
       it 'stores nil when no touch_in' do
         journey.end(exit_station1)
-        expect(journey.single_journey).to eq [nil, exit_station1]
+        expect(journey.journeyLog.journey_log).to eq(1=>[nil, exit_station1])
       end
 end

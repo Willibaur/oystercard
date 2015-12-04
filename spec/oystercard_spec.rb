@@ -4,7 +4,7 @@ require 'journey'
 describe Oystercard do
 
   subject(:oystercard) {described_class.new}
-  let(:rand_num) {rand(1..40)}
+  let(:rand_num) {rand(20..60)}
   let(:entry_station) {double :station}
   let(:exit_station) {double :station}
   let(:entry_station2) {double :station}
